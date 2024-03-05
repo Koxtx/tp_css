@@ -100,14 +100,14 @@ section > h3 {
   display: inline-block;
   height: 100px;
   width: 50%;
-  padding-left: 425px;
+  padding-left: 375px;
   padding-top: 50px;
 }
 .concert {
   width: 49%;
   display: inline-block;
   padding-top: 100px;
-  padding-left: 425px;
+  padding-left: 375px;
 }
 
 .clock {
@@ -126,7 +126,7 @@ section > h3 {
 }
 svg {
   width: 50px;
-  margin-left: 50%;
+  margin-left: 42.75%;
 }
 /* .music {
   display: inline-block;

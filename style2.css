@@ -115,3 +115,21 @@ img {
   margin-right: 10px;
   margin-left: 50px;
 }
+.qtr {
+  background-color: blueviolet;
+  color: white;
+  border-radius: 100px;
+  padding-left: 6px;
+  padding-right: 6px;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+.onz {
+  background-color: brown;
+  color: white;
+  border-radius: 100px;
+  padding-left: 6px;
+  padding-right: 6px;
+  margin-left: 2px;
+  margin-right: 2px;
+}

@@ -20,19 +20,25 @@ h1 {
 header > a {
   color: white;
   text-decoration: dashed;
-  margin: 5px;
+  padding: 5px;
   /* padding-bottom: 100px; */
   font-size: small;
 }
 .head {
   display: inline-block;
   text-align: right;
-  margin: 10px;
+  padding: 10px;
   text-align: left;
 }
 .head1 {
   display: inline-block;
   /* padding-left: 675px; */
+  background-color: #606060;
+}
+.head2:hover {
+  background-color: #606060;
+}
+.head3:hover {
   background-color: #606060;
 }
 
@@ -46,16 +52,17 @@ main {
 
   color: #03503c;
   text-align: center;
-  padding: 200px;
+  padding: 100px;
+  height: 650px;
 }
 h2 {
-  font-size: 8em;
-  padding: 20px;
-  margin: 10;
+  font-size: 4em;
+
   border-bottom: 5px solid #03503c;
+  padding: 50px;
 }
-.photo2 {
-  font-size: 50px;
+.photo2 > p {
+  font-size: 1.25em;
   /* border-top: 20px solid green; */
 }
 .div2 {
@@ -81,32 +88,53 @@ section > h3 {
   display: inline-block;
   height: 100px;
   width: 50%;
+  padding-left: 425px;
+  padding-top: 50px;
+}
+.open {
+  display: inline-block;
+  height: 100px;
+  width: 50%;
+  padding-left: 425px;
+  padding-top: 50px;
 }
 .concert {
-  height: 100px;
   width: 49%;
   display: inline-block;
-  padding-top: 50px;
+  padding-top: 100px;
+  padding-left: 425px;
 }
 
 .clock {
   display: inline-block;
-  width: 60px;
-  margin-top: 50px;
-  margin-left: 425px;
+  height: 100px;
+  width: 50%;
+  /* margin-left: 50%;
+  /* /* width: 60px; */
+  /* margin-top: 50px; */
 }
-.music {
+.concert > section {
+  margin-right: 50%;
+}
+.clock > section {
+  margin-right: 50%;
+}
+svg {
+  width: 50px;
+  margin-left: 50%;
+}
+/* .music {
   display: inline-block;
-  width: 60px;
+  width: 50px;
   margin-top: 50px;
   margin-left: 425px;
-}
+} */
 .div3 {
   /* visibility: hidden; */
   padding: auto;
   margin-top: 250px;
 }
-img {
+.div3 img {
   display: inline-block;
   vertical-align: topS;
   width: 100%;
@@ -118,7 +146,7 @@ img {
   display: inline-block;
   margin-top: 50px;
   text-align: center;
-  padding-left: 500px;
+  margin-left: 25%;
 }
 p {
   text-align: center;

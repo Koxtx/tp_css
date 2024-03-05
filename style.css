@@ -57,9 +57,14 @@ main {
 }
 h2 {
   font-size: 4em;
-
-  border-bottom: 5px solid #03503c;
   padding: 50px;
+}
+hr {
+  height: 10px;
+  background-color: #03503c;
+  width: 100px;
+  margin-left: 50%;
+  border-color: #03503c;
 }
 .photo2 > p {
   font-size: 1.25em;

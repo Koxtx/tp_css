@@ -4,7 +4,7 @@
   font-family: "Open Sans";
 }
 header {
-  background-color: rgb(54, 53, 52);
+  background-color: #333333;
   position: fixed;
   width: 100%;
   height: 50px;
@@ -33,13 +33,13 @@ header > a {
 .head1 {
   display: inline-block;
   /* padding-left: 675px; */
-  background-color: #606060;
+  background-color: #444444;
 }
 .head2:hover {
-  background-color: #606060;
+  background-color: #444444;
 }
 .head3:hover {
-  background-color: #606060;
+  background-color: #444444;
 }
 
 main {

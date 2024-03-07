@@ -130,7 +130,7 @@ img {
   margin-right: 2px;
 }
 @media (max-width: 500px) {
-  body {
+  html {
     max-width: 500px;
   }
   header {
@@ -164,13 +164,12 @@ img {
   }
   footer {
     padding: 20px;
-    padding-top: 5px;
-    margin-top: 200px;
+    padding-top: 2.5px;
   }
   .p2 {
     margin: 5px;
-    padding-left: 150px;
-    padding-top: 10px;
+    padding-left: 100px;
+    padding-top: 5px;
     font-size: 0.5em;
   }
   .find {

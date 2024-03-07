@@ -184,8 +184,8 @@ footer > p {
 }
 /* smartphone */
 @media (max-width: 500px) {
-  body {
-    min-width: 500px;
+  html {
+    max-width: 500px;
   }
   header {
     text-align: center;
@@ -212,6 +212,16 @@ footer > p {
   }
   h1 {
     margin-left: 85px;
+  }
+  footer {
+    padding: 20px;
+    padding-top: 2.5px;
+  }
+  .p2 {
+    margin: 5px;
+
+    padding-top: 5px;
+    font-size: 0.5em;
   }
   hr {
     margin-left: 100px;
@@ -321,16 +331,7 @@ footer > p {
     padding: 5px;
     margin-right: 400px;
   }
-  footer {
-    padding: 20px;
-    padding-top: 2.5px;
-  }
-  .p2 {
-    margin: 5px;
-    padding-left: 0px;
-    padding-top: 5px;
-    font-size: 0.5em;
-  }
+
   .backtotop {
     display: none;
   }

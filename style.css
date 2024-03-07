@@ -200,7 +200,7 @@ footer > p {
   header {
     text-align: center;
     height: 175px;
-    padding: 20px;
+    padding: 10px;
   }
   header > a {
     margin: 5px;
@@ -224,27 +224,35 @@ footer > p {
     margin-left: 85px;
   }
   hr {
-    margin-left: 100px;
+    margin-left: 150px;
+    padding-left: 100px;
   }
   .photo {
     background: url(images/bar_opacity.png) center center/cover;
-    height: 50em;
+    height: 20%;
+    padding: 0;
     padding-top: 175px;
     text-align: center;
   }
   h2 {
     display: inline-block;
-    font-size: 2.5em;
-    padding: 30px;
+    width: 300px;
+    font-size: 1.5em;
+    padding: 10px;
+    margin-right: 100px;
   }
   p {
     margin: 5px;
     padding: 5px;
     display: inline-block;
     width: 300px;
+    margin-right: 100px;
   }
   .photo > p {
-    font-size: 1.5em;
+    font-size: 0.8em;
+  }
+  .button {
+    margin-right: 100px;
   }
   .div3 {
     display: none;
@@ -253,10 +261,12 @@ footer > p {
     display: inline-block;
     margin: 30px;
     text-align: center;
+    margin-right: 200px;
   }
   .div4 {
     display: inline-block;
-    margin: 30px;
+    width: 300px;
+    margin-top: 50px;
     text-align: center;
   }
   .concert {
@@ -287,7 +297,7 @@ footer > p {
     margin-left: 49%;
   }
   .clock2 {
-    margin-left: 125px;
+    margin-left: 137.5px;
   }
   .concert2 {
     margin-left: 125px;
@@ -326,7 +336,7 @@ footer > p {
   }
   .p2 {
     margin: 5px;
-    padding-left: 75px;
+    padding-left: 0px;
     padding-top: 5px;
     font-size: 0.5em;
   }

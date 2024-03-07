@@ -136,7 +136,7 @@ img {
   header {
     text-align: center;
     height: 175px;
-    padding: 20px;
+    padding: 10px;
   }
   header > a {
     margin: 5px;
@@ -180,7 +180,7 @@ img {
   img {
     margin: 5px;
     padding: 5px;
-    margin-left: 85px;
+    margin-left: 50px;
   }
   .find2 {
     margin: 5px;
@@ -191,7 +191,7 @@ img {
     width: 600px;
     margin: 5px;
     padding: 5px;
-    margin-left: 25px;
+    margin-left: 10px;
   }
   .h4 {
     display: inline-block;

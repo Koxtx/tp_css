@@ -297,9 +297,9 @@ footer > p {
     padding-right: 0;
   }
   .alien > p {
-    margin-right: 50%;
+    margin-right: 400px;
 
-    margin-left: 5px;
+    margin-left: 50px;
     display: inline-block;
     width: 300px;
   }
@@ -307,7 +307,7 @@ footer > p {
   .button2 {
     margin: 5px;
     padding: 5px;
-    margin-right: 625px;
+    margin-right: 400px;
   }
   footer {
     padding: 20px;

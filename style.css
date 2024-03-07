@@ -296,7 +296,8 @@ footer > p {
     margin-right: 625px;
   }
   footer {
-    margin: 20px;
+    padding: 20px;
+    padding-top: 2.5px;
   }
   .p2 {
     margin: 5px;

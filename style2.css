@@ -130,6 +130,9 @@ img {
   margin-right: 2px;
 }
 @media (max-width: 500px) {
+  body {
+    width: 500px;
+  }
   header {
     text-align: center;
     height: 175px;

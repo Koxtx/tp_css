@@ -106,6 +106,9 @@ textarea {
   color: black;
 }
 @media (max-width: 500px) {
+  body {
+    width: 500px;
+  }
   header {
     text-align: center;
     height: 175px;
@@ -136,7 +139,7 @@ textarea {
     margin-left: 85px;
   }
   footer {
-    margin: 20px;
+    padding: 20px;
     margin-top: 200px;
   }
   .p2 {

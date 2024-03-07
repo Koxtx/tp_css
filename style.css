@@ -189,6 +189,9 @@ footer > p {
 }
 /* smartphone */
 @media (max-width: 500px) {
+  body {
+    width: 500px;
+  }
   header {
     text-align: center;
     height: 175px;
@@ -215,7 +218,9 @@ footer > p {
   h1 {
     margin-left: 85px;
   }
-
+  hr {
+    margin-left: 100px;
+  }
   .photo {
     background: url(images/bar_opacity.png) center center/cover;
     height: 50em;

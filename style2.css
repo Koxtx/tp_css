@@ -133,6 +133,7 @@ img {
   html,
   body {
     max-width: 500px;
+    min-width: 0;
     width: 100%;
   }
   header {

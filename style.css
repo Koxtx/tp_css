@@ -267,16 +267,19 @@ footer > p {
     display: inline-block;
     padding: 5px;
     width: 400px;
-    margin-left: 40px;
+    margin-left: 49%;
     padding-right: 200px;
   }
   svg {
     padding: 5px;
     width: 60px;
-    margin-left: 90px;
+    margin-left: 49%;
   }
   .clock2 {
-    margin-left: 100px;
+    margin-left: 125px;
+  }
+  .concert2 {
+    margin-left: 125px;
   }
   .div2 > p {
     display: inline-block;
@@ -288,15 +291,19 @@ footer > p {
     padding: 20px;
     margin: 50px;
   }
+  .alien > h3 {
+    margin-left: 0;
+    margin-right: 50%;
+    padding-right: 0;
+  }
   .alien > p {
-    margin-right: 600px;
+    margin-right: 50%;
+
     margin-left: 5px;
     display: inline-block;
     width: 300px;
   }
-  .alien > h3 {
-    margin-right: 500px;
-  }
+
   .button2 {
     margin: 5px;
     padding: 5px;

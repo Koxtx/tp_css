@@ -186,7 +186,7 @@ footer > p {
 @media (max-width: 500px) {
   html,
   body {
-    max-width: 500px;
+    max-width: 300px;
     width: 100%;
   }
   header {

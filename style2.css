@@ -217,4 +217,10 @@ img {
     margin-left: 90px;
     margin-top: 0;
   }
+  html,
+  body {
+    max-width: 500px;
+    min-width: 0;
+    width: 100%;
+  }
 }

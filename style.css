@@ -89,19 +89,9 @@ section > h3 {
   font-size: medium;
   text-align: center;
 }
-.open {
-  display: inline-block;
-  height: 100px;
-  width: 50%;
-  padding-left: 425px;
-  padding-top: 50px;
-}
-.open {
-  display: inline-block;
-  height: 100px;
-  width: 50%;
-  padding-left: 375px;
-  padding-top: 50px;
+.oe {
+  width: 100%;
+  margin: 5px;
 }
 .concert {
   width: 49%;
@@ -195,7 +185,7 @@ footer > p {
 /* smartphone */
 @media (max-width: 500px) {
   body {
-    width: 500px;
+    max-width: 500px;
   }
   header {
     text-align: center;
@@ -232,6 +222,7 @@ footer > p {
     height: 20%;
     padding: 0;
     padding-top: 175px;
+    padding-left: 50px;
     text-align: center;
   }
   h2 {

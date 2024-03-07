@@ -131,7 +131,7 @@ img {
 }
 @media (max-width: 500px) {
   body {
-    width: 500px;
+    max-width: 500px;
   }
   header {
     text-align: center;

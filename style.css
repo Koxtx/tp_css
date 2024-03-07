@@ -187,6 +187,11 @@ footer > p {
   padding-left: 400px;
   text-align: center;
 }
+.backtotop {
+  padding: 50px;
+  border: 1px solid black;
+  border-radius: 50%;
+}
 /* smartphone */
 @media (max-width: 500px) {
   body {
@@ -306,5 +311,8 @@ footer > p {
     padding-left: 75px;
     padding-top: 5px;
     font-size: 0.5em;
+  }
+  .backtotop {
+    display: none;
   }
 }

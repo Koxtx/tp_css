@@ -185,7 +185,7 @@ footer > p {
 /* smartphone */
 @media (max-width: 500px) {
   body {
-    max-width: 500px;
+    min-width: 500px;
   }
   header {
     text-align: center;
@@ -214,7 +214,7 @@ footer > p {
     margin-left: 85px;
   }
   hr {
-    margin-left: 150px;
+    margin-left: 100px;
     padding-left: 100px;
   }
   .photo {

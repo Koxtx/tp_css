@@ -1,1 +1,1 @@
-![worldend](./asset/capture_wordlend.png)
+![capture_wordlend](./asset/capture_wordlend.png)
